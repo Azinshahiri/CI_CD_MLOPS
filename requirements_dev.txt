@@ -6,6 +6,7 @@ seaborn
 flask
 mlflow==2.2.2
 dvc
+xgboost
 
 # Local install
 -e .
