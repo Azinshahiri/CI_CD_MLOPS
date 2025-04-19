@@ -1,0 +1,13 @@
+prefix=/Users/azinshahiri/Desktop/ML_Projects/7-MLOPS/CI_CD_MLOps/env
+exec_prefix=/Users/azinshahiri/Desktop/ML_Projects/7-MLOPS/CI_CD_MLOps/env
+libdir=/Users/azinshahiri/Desktop/ML_Projects/7-MLOPS/CI_CD_MLOps/env/lib
+sharedlibdir=/Users/azinshahiri/Desktop/ML_Projects/7-MLOPS/CI_CD_MLOps/env/lib
+includedir=/Users/azinshahiri/Desktop/ML_Projects/7-MLOPS/CI_CD_MLOps/env/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

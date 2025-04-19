@@ -1,0 +1,18 @@
+# Core dependencies
+pandas
+scikit-learn
+numpy
+seaborn
+flask
+mlflow==2.2.2
+dvc
+
+# Local install
+-e .
+
+# Development tools
+pytest==7.0.0
+tox>=3.25.0
+black==23.3.0
+mypy
+flake8==5.0.4

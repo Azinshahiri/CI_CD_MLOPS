@@ -1,0 +1,5 @@
+#!/Users/azinshahiri/Desktop/ML_Projects/7-MLOPS/CI_CD_MLOps/env/bin/python3.10
+
+import pydoc
+if __name__ == '__main__':
+    pydoc.cli()

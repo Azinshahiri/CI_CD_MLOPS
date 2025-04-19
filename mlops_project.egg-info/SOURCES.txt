@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+mlops_project.egg-info/PKG-INFO
+mlops_project.egg-info/SOURCES.txt
+mlops_project.egg-info/dependency_links.txt
+mlops_project.egg-info/top_level.txt
