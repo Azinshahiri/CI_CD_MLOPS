@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/511f8dcdb47c4c5780ad6871a5f1c067/artifacts
+end_time: 1745172617145
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 511f8dcdb47c4c5780ad6871a5f1c067
+run_name: ElasticNet
+run_uuid: 511f8dcdb47c4c5780ad6871a5f1c067
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745172613256
+status: 3
+tags: []
+user_id: azinshahiri
